@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+
+}
+.shop-container{
+    width: 70%;
+}
+.card{
+    position: relative;
+}
+.cart-container{
+    
+}
